@@ -6,3 +6,4 @@
 *Larry Plotter y El MAlware de Fuego
 *Larry Plotter y La Order del Unix
 *Larry Plotter y EL Misterio del Hacker
+*Larry Plotter y Los Commits de la Muerte
